@@ -1,0 +1,8 @@
+.env
+.temp
+
+__pycache__/
+
+# 数据集
+data/raw/
+data/processed/
